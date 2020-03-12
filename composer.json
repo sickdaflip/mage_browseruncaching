@@ -1,0 +1,9 @@
+{
+  "name": "sickdaflip/mage_browseruncaching",
+  "type": "magento-module",
+  "license": "MIT",
+  "description": "Magento 1.9.3. Module",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
